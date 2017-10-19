@@ -1,2 +1,2 @@
-# cjn-Hello-World
-hello word
+# UNSW Master of IT 
+17s2入学
